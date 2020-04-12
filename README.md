@@ -34,10 +34,11 @@
 * [模板模式](./design-pattern/template-pattern/README.md)
 * [访问者模式](./design-pattern/visitor-pattern/README.md)
 
-# 设计模式的六大原则
-1. 开闭原则（Open Close Principle）
-2. 里氏代换原则（Liskov Substitution Principle）
-3. 依赖倒转原则（Dependence Inversion Principle）
-4. 接口隔离原则（Interface Segregation Principle）
-5. 迪米特法则，又称最少知道原则（Demeter Principle）
-6. 合成复用原则（Composite Reuse Principle）
+# 设计模式的七大原则
+1. 开闭原则（Open Close Principle, OCP）
+2. 里氏代换原则（Liskov Substitution Principle, LSP）
+3. 依赖倒转原则（Dependence Inversion Principle, DIP）
+4. 单一职责原则 (Single Responsibility Principle, SRP)
+5. 接口隔离原则（Interface Segregation Principle, ISP）
+6. 迪米特法则，又称最少知道原则（Least Knowledge Principle, LKP）
+7. 合成复用原则（Composite Reuse Principle, CRP）
